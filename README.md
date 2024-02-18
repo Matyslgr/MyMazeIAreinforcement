@@ -4,6 +4,8 @@
 
 This project involves simulating maze-solving using reinforcement learning. The maze environment is represented as a grid, and an artificial intelligence agent learns to navigate through the maze to reach the goal. The project includes visualization tools to observe the training process and simulate the agent's behavior.
 
+![Nom de l'image](exemple.png)
+
 ## Prerequisites
 
 Before running the project, make sure you have the following dependencies installed:
