@@ -32,16 +32,16 @@ To run the project, use the main.py script. The basic usage is as follows:
 ### Exemples
 ```bash
 # Basic usage
-python main.py 1 10
+python3 main.py 1 10
 
 # Enable rendering and set the maze size to 15
-python main.py 1 15
+python3 main.py 1 15
 
 # Enable rendering, set the maze size to 12, and use the "plus" mode
-python main.py 1 12 plus
+python3 main.py 1 12 plus
 
 # Disable rendering, set the maze size to 20, and enable visualization of the shortest path
-python main.py 0 20 1
+python3 main.py 0 20 1
 ```
 
 ### Visualization
